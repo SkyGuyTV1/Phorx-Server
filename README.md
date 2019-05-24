@@ -1,2 +1,2 @@
-# Phorx-Server
+# Minecraft.net
 MCPE
